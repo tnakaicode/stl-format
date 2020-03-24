@@ -1,3 +1,26 @@
+# VSCode
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*.swp
+*.egg-info
+*.eggs/*
+plyfile-venv/
+build/
+dist/
+.tox
+.cache
+.pytest_cache
+
+# Doc
+*.pdf
+*.html
+*.docx
+*~
+
 build
 dist
 docs/_build
